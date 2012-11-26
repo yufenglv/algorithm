@@ -5,6 +5,8 @@
  *****************************/
 #include<iostream>
 #include<cmath>
+#include<cstring>
+#include<cstdio>
 #define MAX 2900
 struct block{//Type of block
     int nos;//Number of elements in this block
